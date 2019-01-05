@@ -3,8 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    <name> Alex Sharendo <twitter>
+Sharendo Alex
+sharendo1717@gmail.com
 # THANKS
 
     <name>
