@@ -14,3 +14,4 @@ sharendo1717@gmail.com
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAK
+	Machine Learning, AWS, Google Cloud
