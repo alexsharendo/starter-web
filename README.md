@@ -10,5 +10,9 @@ This is the famous and of the best trainings.
 ## GIT Comparisons
 Adding GIT Comparisons Lecture
 
+##Contribution
+Fork the Repo and reaise pull request
+
+
 ##GITHub Content
 Comparison with Repo
