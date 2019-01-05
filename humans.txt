@@ -5,7 +5,7 @@
 
     <name> Alex Sharendo <twitter>
 Sharendo Alex
-sharendo1717@gmail.com
+sharendo1717
 # THANKS
 
     <name>
@@ -14,3 +14,4 @@ sharendo1717@gmail.com
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAK
+	Docker, Java Programming
