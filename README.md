@@ -11,6 +11,7 @@ This is the famous and of the best trainings.
 Addubg GIT Rebase Lectures in GIT Advance part. We have done so much of work together.
 ## GIT Comparisons
 Adding GIT Comparisons Lecture
+Adding new lectures for Stash
 
 ##Contribution
 Fork the Repo and reaise pull request
